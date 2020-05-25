@@ -876,14 +876,14 @@ section.lazy-placeholder:after {
 .cid-rZRa7o2QPE {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ff0000;
+  background-color: #efefef;
 }
 .cid-rZRa7o2QPE P {
   color: #767676;
 }
 .cid-rZRa7o2QPE .mbr-text,
 .cid-rZRa7o2QPE .mbr-section-btn {
-  color: #ffffff;
+  color: #ff0000;
 }
 .cid-rZnR94PvVo {
   padding-top: 75px;
@@ -1300,6 +1300,9 @@ section.lazy-placeholder:after {
     -webkit-flex-basis: 100%;
     padding-bottom: 2rem;
   }
+}
+.cid-rZRfz3MBxz .mbr-step-text {
+  text-align: right;
 }
 .cid-rZRiZc8C9B {
   padding-top: 90px;
